@@ -1,17 +1,13 @@
 # scapp
 
-A new Flutter project.
+Yeni bir Flutter projesi.
 
-## Getting Started
+Süleyman Çakır'ın örnek bir eseridir. Kullanıldığında referans gereklidir.
 
-This project is a starting point for a Flutter application.
+Kişisel web sitesi:
 
-A few resources to get you started if this is your first Flutter project:
+https://www.suleymancakir.xyz
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Instagram'da:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-listtile-listview
+https://www.instagram.com/suleyman_cakiir0/
